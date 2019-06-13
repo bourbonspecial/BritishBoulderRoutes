@@ -3,6 +3,7 @@
 This is a list of routes in the UK that have sections that are equivalent to an 8A boulder problem or harder. Boulder problems with route extensions are generally excluded, though not in all cases.
 
 |Route|Crag|Route Grade|Approx. Boulder Grade|Notes|
+|-----|----|-----------|---------------------|-----|
 |Hubble|Raven Tor|9a|8B+||
 |Mutation|Raven Tor|9a|8A||
 |Evolution|Raven Tor|8c+|8A||
